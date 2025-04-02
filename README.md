@@ -10,7 +10,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-
+<div>
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
 
 <!--
 **CaueUrbini/CaueUrbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
