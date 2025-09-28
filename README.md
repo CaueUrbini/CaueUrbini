@@ -16,7 +16,7 @@ Meu nome é **Cauê** e estudo programação! Sempre buscando aprender mais e ev
 
 ## 💻 Linguagens e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,PHP,javascript,html,css,mysql,git,vscode" width="800"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,git,vscode" width="800"/>
 </div>
 
 ---
