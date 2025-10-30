@@ -16,11 +16,11 @@ Meu nome é **Cauê** e estudo programação! Sempre buscando aprender mais e ev
 
 ## 💻 Linguagens e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,git,vscode,linux,docker,aws,azure,kubernetes" width="800"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,git,vscode,linux,docker,aws,azure,shell,kubernetes" width="800"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/CaueUrbini/CaueUrbini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
