@@ -1,10 +1,10 @@
-### E aí, tranquilidade? 👋  
+### E aí, tranquilidade? 👋  
 Meu nome é **Cauê** e estudo programação! Sempre buscando aprender mais e evoluir como dev. 🚀
 
 ---
 
 ### 🌐 Contato
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tufao)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tufao)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-felix-urbini/)
 
 ---
@@ -16,11 +16,11 @@ Meu nome é **Cauê** e estudo programação! Sempre buscando aprender mais e ev
 
 ## 💻 Linguagens e Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,git,vscode,linux,docker,aws." width="800"/>
+  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,mysql,git,vscode,linux,docker,aws,azure,shell,kubernetes" width="800"/>
 </div>
 
 ---
 
-<div>
-  <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/CaueUrbini/CaueUrbini/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
