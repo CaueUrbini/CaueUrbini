@@ -22,5 +22,5 @@ Meu nome é **Cauê** e estudo programação! Sempre buscando aprender mais e ev
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/snake.svg" alt="Snake animation" />
 </p>
