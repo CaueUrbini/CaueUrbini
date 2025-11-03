@@ -63,7 +63,7 @@
 ---
 
 ### 📁 [Simple Notes Application (CRUD)](https://github.com/CaueUrbini/Aplicacao-Simples-de-Notas)
-📝 *Solo Project* — Simple note manager built with Flask.  
+📝 *Solo Project* — Simple note manager built with PHP.  
 **Stack:** PHP • CSS • Docker  
 
 ---
