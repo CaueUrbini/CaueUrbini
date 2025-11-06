@@ -50,22 +50,29 @@
 
 > A selection of projects showcasing my experience across **Back-end**, **Full-Stack**, **DevOps**, and **Automation**.
 
-### 📁 [InclusiveCityHub (Back-end)](https://github.com/MarcosVOS/inclusiveCityHubBackend)
+### 📁 [InclusiveCityHub (Back-end)](https://github.com/CaueUrbini/inclusiveCityHubBackend)
 🧠 *Team Project* — Inclusive city management API.  
-**Stack:** Node.js • PostgreSQL • Docker & Docker Compose • GitHub Actions  
+**Stack:** Node.js • PostgreSQL • Docker & Docker Compose • GitHub Actions 
+
+Developed a Node.js back-end for an inclusive city platform where elderly users can register, log in, and stay informed about daily events. 
+The system includes moderators and companies responsible for creating and validating event postings.
 
 ---
 
 ### 📁 [ProMenge - Bradesco A3](https://github.com/ProMenge/A3_Bradesco)
 🏫 *Academic Full-Stack Project* — Educational platform prototype.  
 **Stack:** Java • Spring Boot • REST APIs • Docker • MySQL  
+Academic project developed in Java with Spring Boot for the Distributed Systems course. 
+Designed to address a financial scam identified by the Central Bank of Brazil, the system applies REST architecture and Docker containerization to ensure scalability and modularity.
 
 ---
 
 ### 📁 [Simple Notes Application (CRUD)](https://github.com/CaueUrbini/Aplicacao-Simples-de-Notas)
 📝 *Solo Project* — Simple note manager built with PHP.  
 **Stack:** PHP • CSS • Docker  
-
+A lightweight CRUD application that allows users to create, edit, and manage notes. 
+Each note displays the creation and last update timestamps, providing a simple and efficient user experience.
+ 
 ---
 
 ## 📊 GitHub Analytics
