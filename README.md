@@ -72,7 +72,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CaueUrbini&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaueUrbini&theme=onedark&hide_border=true&background=0D1117" height="150" />
 </div>
 
 ---
@@ -96,7 +95,6 @@
 
 ---
 
-## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/snake.svg" alt="Snake animation" />
