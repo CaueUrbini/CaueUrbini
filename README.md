@@ -41,7 +41,7 @@
 
 ### ⚙️ DevOps, Cloud & Security
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,vscode" width="350" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,vscode,ansible,python,bash" width="350" />
 </div>
 
 ---
