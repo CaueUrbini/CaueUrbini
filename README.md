@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git" width="350" />
 </div>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,ansible,python,bash,terraform" width="350" />
+  <img src="https://skillicons.dev/icons?i=vscode,ansible,python,bash,terraform,prometheus" width="350" />
 </div>
 
 ---
