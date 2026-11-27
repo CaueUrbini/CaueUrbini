@@ -83,11 +83,6 @@ Scripts that automate everyday tasks, written while I deepened my command-line s
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to internships, junior roles and collaboration on open-source or DevOps projects.
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/caue-felix-urbini/) or at [caueurbini@gmail.com](mailto:caueurbini@gmail.com).
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CaueUrbini/CaueUrbini/output/snake.svg" alt="Snake animation" />
 </p>
